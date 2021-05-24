@@ -12,4 +12,4 @@ COPY . .
 
 CMD python3 bot.py
 
-RUN export TOKENBOT=1755900119:AAHb6FHMrBeM7ZxE2GYPeHWBhBcTf3Ej5vo
+RUN export TOKENBOT=...
